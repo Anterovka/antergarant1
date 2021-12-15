@@ -1,9 +1,9 @@
-TOKEN = '5040090346:AAHcvISOuRhJpy6GakPiTPmXV7pkUyQn27A' #Токен бота
+TOKEN = '5013459394:AAFKyC2BJrp76MSFt1t3hHEAk58peUwap4M' #Токен бота
 admin = 1144857645 #Chat_id админа 1, только ему отправляется уведомления о спорах и пополнениях баланса!
-admin2 = 1144857645 #Chat_id админа 2
-chat_bota = 'https://t.me/sellerschat_nitro' #Ссылка на ваш чат.
+admin2 = 1204343862 #Chat_id админа 2
+chat_bota = 'https://t.me/' #Ссылка на ваш чат.
 instruction = 'https://t.me/' #Ссылка на инструкцию, можно написать в telegra.ph
-nicknameadm = 'sellersshop_supports' #ник админа без @
+nicknameadm = 'yasin_VegasBRq' #ник админа без @
 procent = 5 #Комиссия сервиса
 number_qiwi = '79381504232' #Номер киви, обязателен к заполнению, даже если вы будете использовать ник
 db = 'db.db' #Расположение базы данных, если вы не знаете что это, не трогайте!
